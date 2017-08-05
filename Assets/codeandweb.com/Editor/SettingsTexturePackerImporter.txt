@@ -1,0 +1,9 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Sprites/invaders.tpsheet
+textureFileNames:
+- Assets/Sprites/invaders.png
+normalmapFileNames:
+- 
+enableDebugOutput: 0
