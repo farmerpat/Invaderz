@@ -17,6 +17,8 @@ TextureImporter:
     21300020: aliensprite_0010_Layer 11
     21300022: aliensprite_0011_Layer 0
     21300024: player
+    21300026: laserBlue13
+    21300028: laserRed13
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -241,6 +243,34 @@ TextureImporter:
         y: 77
         width: 30
         height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: laserBlue13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 198
+        width: 9
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: laserRed13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 198
+        width: 9
+        height: 57
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
